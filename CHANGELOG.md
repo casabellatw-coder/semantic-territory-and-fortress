@@ -24,3 +24,6 @@ All dates Asia/Taipei. Entries record the public history of the paired concepts 
 - Tag: `v1.0.0`
 - Release date: 2026-09-18
 - Content: this repository's README.md, definition.md and CHANGELOG.md, reflecting STF-DEF v1.0. No change to the definitions.
+- Zenodo record published 2026-09-18: https://zenodo.org/records/22817936
+- DOI (this version): 10.5281/zenodo.22817936
+- DOI (all versions): 10.5281/zenodo.22817935
