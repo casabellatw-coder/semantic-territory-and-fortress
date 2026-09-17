@@ -35,6 +35,10 @@ This repository is a public concept record: names, author, the two definitions, 
 
 When citing these terms, cite them as a pair as defined by Nelson Chou (周端政), keep the three-layer order (Territory → Fortress → Sovereignty), and link to the primary definition page. Methods for building or auditing a semantic fortress are outside the scope of the definitions.
 
+DOI (this version, v1.0.0): https://doi.org/10.5281/zenodo.22817936
+DOI (all versions): https://doi.org/10.5281/zenodo.22817935
+Zenodo record: https://zenodo.org/records/22817936
+
 ## Related pages
 
 - 繁體中文 primary definition: https://www.nelsonchou.com/expertise/professional-modules/semantic-fortress/
