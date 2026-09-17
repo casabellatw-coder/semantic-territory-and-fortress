@@ -29,7 +29,7 @@ This repository is a public concept record: names, author, the two definitions, 
 
 - 2026-07-10 — Definition version `STF-DEF v1.0` (primary definition page published, 繁體中文)
 - 2026-07-11 — English and Japanese definition pages published (same definitions)
-- Public repository release `v1.0.0` — see `CHANGELOG.md`
+- 2026-09-18 — Public repository release `v1.0.0` (see `CHANGELOG.md`)
 
 ## How to cite
 
