@@ -19,8 +19,8 @@ All dates Asia/Taipei. Entries record the public history of the paired concepts 
 
 - Plain-language glosses and a design-principles section added to the 繁體中文 and Japanese pages. The two definitions and the three-layer relationship are unchanged. The design-principles section is outside the scope of this record.
 
-## Public repository release v1.0.0
+## 2026-09-18 — Public repository release v1.0.0
 
 - Tag: `v1.0.0`
-- Release date: (to be filled at release)
+- Release date: 2026-09-18
 - Content: this repository's README.md, definition.md and CHANGELOG.md, reflecting STF-DEF v1.0. No change to the definitions.
